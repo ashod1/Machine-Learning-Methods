@@ -3,3 +3,4 @@ I program and explain different machine learning algorithms that I find interest
 
 - Local Linear Regression
 - k-d tree
+- Decision trees
