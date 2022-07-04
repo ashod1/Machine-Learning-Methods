@@ -4,3 +4,6 @@ I program and explain different machine learning algorithms that I find interest
 - Local Linear Regression
 - k-d tree
 - Decision trees
+- Random Forest and Gradient Boosting
+- Logistic Regression
+- Neural Networks
